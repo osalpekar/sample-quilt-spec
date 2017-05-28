@@ -1,0 +1,5 @@
+{
+    "dependencies" : {
+        "@quilt/quilt" : "quilt/quilt"
+    }
+}
